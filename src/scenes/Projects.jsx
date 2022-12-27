@@ -36,7 +36,7 @@ const Project = ({ title }) => {
         </p>  
       </div>
       </a> 
-      <img src={`./assets/MealApp.png`} alt={projectTitle} />
+      <img src={`/assets/MealApp.png`} alt={projectTitle} />
 
     </motion.div>
   );
@@ -64,7 +64,7 @@ const Project = ({ title }) => {
           
         </div>
         </a>
-        <img src={`./assets/MemoryGame.png`} alt={projectTitle} />
+        <img src={`/assets/MemoryGame.png`} alt={projectTitle} />
       </motion.div>
     );
     }
@@ -89,7 +89,7 @@ const Project = ({ title }) => {
             
           </div>
           </a>
-          <img src={`./assets/WordGuessGame.png`} alt={projectTitle} />
+          <img src={`/assets/WordGuessGame.png`} alt={projectTitle} />
         </motion.div>
       );
     }
@@ -114,7 +114,7 @@ const Project = ({ title }) => {
             
           </div>
           </a>
-          <img src={`./assets/TicTacToe.png`} alt={projectTitle} />
+          <img src={`/assets/TicTacToe.png`} alt={projectTitle} />
         </motion.div>
       );
     }
@@ -139,7 +139,7 @@ const Project = ({ title }) => {
             
           </div>
           </a>
-          <img src={`./assets/MovieSearch.png`} alt={projectTitle} />
+          <img src={`/assets/MovieSearch.png`} alt={projectTitle} />
         </motion.div>
       );
     }
@@ -164,7 +164,7 @@ const Project = ({ title }) => {
             </p>
           </div>
           </a>
-          <img src={`./assets/LandingPage.png`} alt={projectTitle} />
+          <img src={`/assets/LandingPage.png`} alt={projectTitle} />
         </motion.div>
       );
     }
