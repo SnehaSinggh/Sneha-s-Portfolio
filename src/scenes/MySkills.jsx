@@ -1,6 +1,6 @@
-import useMediaQuery from "../hooks/useMediaQuery";
+import useMediaQuery from "/hooks/useMediaQuery";
 import { motion } from "framer-motion";
-import LineGradient from "../components/LineGradient";
+import LineGradient from "/components/LineGradient";
 
 const MySkills = () => {
   const isAboveLarge = useMediaQuery("(min-width: 1060px)");
