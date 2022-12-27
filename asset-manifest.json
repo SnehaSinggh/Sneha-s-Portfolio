@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sneha-s-Portfolio/static/css/main.37c85e51.css",
+    "main.js": "/Sneha-s-Portfolio/static/js/main.8d2598a8.js",
+    "static/media/brush.png": "/Sneha-s-Portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/Sneha-s-Portfolio/index.html",
+    "main.37c85e51.css.map": "/Sneha-s-Portfolio/static/css/main.37c85e51.css.map",
+    "main.8d2598a8.js.map": "/Sneha-s-Portfolio/static/js/main.8d2598a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37c85e51.css",
+    "static/js/main.8d2598a8.js"
+  ]
+}
