@@ -7,7 +7,7 @@ const SocialMediaIcons = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="linkedin-link" src="../assets/linkedin.png" />
+          <img alt="linkedin-link" src="./assets/linkedin.png" />
         </a>
         <a
           className="hover:opacity-50 transition duration-500"
@@ -15,7 +15,7 @@ const SocialMediaIcons = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="gitHub-link" src="../assets/facebook.png" />
+          <img alt="gitHub-link" src="./assets/facebook.png" />
         </a>
         <a
           className="hover:opacity-50 transition duration-500"
@@ -23,7 +23,7 @@ const SocialMediaIcons = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="instagram-link" src="../assets/instagram.png" />
+          <img alt="instagram-link" src={require("./assets/instagram.png")} />
         </a>
       </div>
     );
